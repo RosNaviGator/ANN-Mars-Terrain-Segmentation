@@ -2,7 +2,7 @@
 
 ---
 
-## Homework 2: Blood-cell classification
+## Homework 2: Mars Terrain Semantic Segmentation with Deep Learning
 
 ### Team Members
 - Maria Aurora Bertasini*
@@ -13,7 +13,7 @@
 *Master's candidate in High Performance Computing Engineering at Politecnico di Milano
 
 
-## Mars Terrain Semantic Segmentation with Deep Learning: Template
+## About
 This project focuses on semantic segmentation of 64x128 grayscale Mars terrain images, assigning each pixel to one of five terrain classes. Paired masks provide pixel-wise labels. The goal is to build a model for accurate classification, evaluated by mean intersection over union (mIoU) excluding the background class (label 0).
 This template serves as a comprehensive tool for testing and running various models. To use it, create a `model.py` file and import it in the model section.
 
